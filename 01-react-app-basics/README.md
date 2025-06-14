@@ -23,7 +23,7 @@ This is not a project it's just a simple React page to learn about the basics an
 
 ## How to use it:   
   - In your command line use git clone https://github.com/JB007z/React-Studies.git
-  - cd React-app-tutorial
+  - cd 01-react-app-basics
   - npm install
   - npm run dev
   - Then it should show you a link to local host and if you follow it you will see a simple react web page
